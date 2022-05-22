@@ -2,11 +2,16 @@
   "version": [
   {
     "ip":"89.84.199.111",
-    "version":"1"
+    "version": [
+    {
+      "version":"1"
+      },
   },
   {
     "ip":"89.84.199.112",
-    "version":"3"
-  }
+    "version": [
+    {
+      "version":"3"
+      }
   ]
 }
